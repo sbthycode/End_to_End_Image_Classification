@@ -1,1 +1,2 @@
 # End_to_End_Image_Classification
+The objective of this project was the classification of 384x128 dimensioned images into three classes. A custom model, created from scratch, has been trained to fulfill the task. The inference.py file has been added to make accessing and using the model a very simple job. On getting the suitable command from the command prompt, this file loads the trained model, predicts labels for the test images and creates an excel containing the predictions. This project was a part of, and our submission for, the IIT Delhi Hackathon, 2021.
